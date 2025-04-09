@@ -209,7 +209,7 @@ def create_interactive_map(df, output_file='chicago_pedestrian_crashes.html'):
 # Main execution
 if __name__ == "__main__":
     # Load and prepare data
-    df = load_and_clean_data('/Users/alaa/Documents/418Analysis/Traffic_Crashes_-_Crashes_20250331.csv')
+    df = load_and_clean_data('traffic_crashes.csv')
     print(f"Loaded {len(df)} crash records")
     
     # Create and save the interactive map
