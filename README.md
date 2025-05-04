@@ -4,3 +4,19 @@ Project WalkSafe is a data science project focused on making cities safer for pe
 
 ### How to Use This Project
 You can explore our data exploration, visualizations, hypotheses, ML analyses, and final results by exploring `final_report.ipynb`.
+
+### Data Sources
+We derived data from the following public datasets provided by the city of Chicago:
+
+[Speed Camera Violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4/about_data)
+
+[Traffic Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
+
+[Chicago Traffic Tracker](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Congestion-Estimates-by-Se/n4j6-wkkf/about_data)
+
+### Contributors
+<a href="https://github.com/shaddad3/Project-WalkSafe/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shaddad3/Project-WalkSafe" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
